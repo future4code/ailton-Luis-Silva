@@ -94,7 +94,7 @@
 // const idadeMeses = (idadeAnos * 12);
 // const idadeDias = (idadeAnos * idadeMeses * 365);
 // const idadeHoras = (idadeDias * 24);
-
+ 
 // console.log(idadeAnos);
 // console.log(idadeMeses);
 // console.log(idadeDias);
